@@ -1,8 +1,8 @@
-// transcript.module.js
+// transcripts.module.js
 (function() {
     'use strict';
 
     angular
-        .module('eligcalc.transcript', []);
+        .module('eligcalc.transcripts', []);
 
 })();

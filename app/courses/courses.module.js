@@ -1,8 +1,8 @@
-// course.module.js
+// courses.module.js
 (function() {
     'use strict';
 
     angular
-        .module('eligcalc.course', []);
+        .module('eligcalc.courses', []);
 
 })();
